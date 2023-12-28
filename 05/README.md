@@ -11,7 +11,7 @@ Wykonaj poniższe zadania bez dodatkowych wyszukiwań. Po drzewie DOM możesz po
 
 1.  Utwórz kolejny przycisk, który będzie rodzeństwem (bratem) dla elementu ze zmiennej `curr`. Element ten niech zawiera napis `usuń z koszyka`.
 2. Do wszystkich elementów, które są rodzeństwem elementu o klasie `.js-curr`, dodaj klasę `.siblings` (wykorzystaj pętlę).
-3. Do następnego elementu o klasie `.article`, który występuje zaraz po rodzicu elementu o klasie `.js-curr`, dodaj atrybut `title` o wartości `nextElementSibling`.
+3. Do następnego elementu o klasie `.article`, który występuje zaraz po rodzicu elementu o klasie `.js-curr`, dodaj atrybut `title` o wartości ``.
 4. Do ostatniego artykułu dodaj dodatkowy paragraf i umieść go przed znacznikiem `<button/>`.
 5. Na początku listy dodaj kolejny artykuł, który będzie miał tę samą strukturę, co pozostałe artykuły.
 
